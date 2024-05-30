@@ -1,0 +1,13 @@
+## マッピングした要素がマッピングした値
+Time Setting 1: {
+    hour: 12,
+    min:  30,
+    sec:  15
+}
+
+Time Setting 2: {
+    hour: 18,
+    min:  30,
+    sec:  00
+}
+
