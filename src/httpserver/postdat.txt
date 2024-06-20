@@ -1,0 +1,5 @@
+Member Information {
+    name: a-chan,
+    real name: 西脇 綾香,
+    birth: 1989-02-15
+}

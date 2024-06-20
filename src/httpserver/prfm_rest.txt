@@ -1,0 +1,4 @@
+ファイル内容をポストする.
+
+wget -q -O - localhost:8080 --post-file=postdat.txt
+
